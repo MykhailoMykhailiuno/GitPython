@@ -1,3 +1,4 @@
 print('bla bla')
-print('123')
-print(5)
+server_id = 'ads'
+if server_id == "qqq":
+    print('done')
