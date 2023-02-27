@@ -4,3 +4,6 @@ if server_id == "qqq":
     print('done')
 else:
     print('EROR')
+
+print('work')
+print('work')
